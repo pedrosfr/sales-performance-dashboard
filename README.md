@@ -27,11 +27,13 @@ O relatório é composto por 3 páginas:
 3. **Distribuição de Vendas, Lucro e Unidades Vendidas**
 
 ## 🖼 Prévia do Dashboard
-*(Adicionar imagens do relatório aqui)*
+![Dashboard Geral](images/dashboard_geral.png)
+![Produtos e Segmentos](images/produtos_segmentos.png)
+![Países e Lucro](images/paises_lucro.png)
 
 ## 📁 Arquivo
 - `sales-performance-dashboard.pbix`
 
 ## 👤 Autor
 **Pedro Sérgio Felinto Rocha**  
-Analista de BI em formação  
+Analista de BI
